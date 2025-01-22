@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Divinum Officium",
-    "slug": "divinum-officium",
+    "name": "Sanctissi-Missa",
+    "slug": "sanctissi-missa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.divinumofficium.app",
+      "bundleIdentifier": "world.robinsai.sanctissimissa.app",
       "buildNumber": "1.0.0",
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "We need access to save generated PDFs to your device.",
@@ -29,7 +29,7 @@
       }
     },
     "android": {
-      "package": "com.divinumofficium.app",
+      "package": "world.robinsai.sanctissi-missa.app",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -45,10 +45,10 @@
     },
     "extra": {
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "sanctissi-missa"
       }
     },
-    "owner": "divinumofficium",
+    "owner": "robinsai.world",
     "runtimeVersion": {
       "policy": "appVersion"
     }

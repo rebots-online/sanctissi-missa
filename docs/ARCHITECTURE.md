@@ -1,4 +1,4 @@
-# Divinum Officium - Modern Architecture
+# Sanctissi-Missa - Modern Architecture
 
 (C)2025 Robin L. M. Cheung, MBA
 # Sanctissi Missa Architecture

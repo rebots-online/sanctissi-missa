@@ -116,7 +116,7 @@ function AppContent() {
           component={TabNavigator}
           options={{ 
             headerShown: false,
-            title: 'Divinum Officium'
+            title: 'Sanctissi-Missa'
           }}
         />
         <Stack.Screen 
