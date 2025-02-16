@@ -1,6 +1,7 @@
 # Sanctissi-Missa - Modern Architecture
 
-w
+NB: Development has been moved to the main Robin's AI World git on self-hosted git server as at 02h22, Sunday, 16feb2025 RLMC
+
 # Sanctissi Missa Architecture
 
 ## Repository Structure
